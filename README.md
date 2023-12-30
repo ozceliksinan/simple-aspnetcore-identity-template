@@ -80,7 +80,7 @@ ASP.NET Core Identity is the membership system for building ASP.NET Core web app
    ```
    update-database
    ```
-4. You can use the information below to enter the admin panel. You can use the /Admin/Index address path for the admin panel.
+4. You can use the information below to enter the admin panel. You can use the /Users/Index address path for the admin panel.
    ```c#
    // --- Identity User Information --- //
    private const string adminUser = "sinanozcelik";
